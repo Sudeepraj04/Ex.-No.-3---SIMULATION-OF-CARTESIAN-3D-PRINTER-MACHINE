@@ -60,8 +60,10 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+![image](https://github.com/RahiniAchudhan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/145742838/7f7c5f9f-8d20-4af2-a0f3-711d854b9c7e)
+
+### Name: c r sudeep raj
+### Register Number: 24013567
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
